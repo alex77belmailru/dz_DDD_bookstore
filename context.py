@@ -1,5 +1,3 @@
-from flask import g
-
 from application.book_service import BookService
 from infra.storage.mem_storage import MemoryStorage
 
