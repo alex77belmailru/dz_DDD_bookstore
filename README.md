@@ -1,4 +1,4 @@
-## Приложение на Flask и SQLAlchemy, Domain Driven Design
+## Приложение для хранения книг на Flask и SQLAlchemy, Domain Driven Design
 #### Запуск приложения
 ```
 python bookstore.py
